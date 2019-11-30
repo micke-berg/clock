@@ -1,2 +1,8 @@
-# clock
-A clock project. Made with html, css and vanilla javascript.
+# The Clock
+
+A clock that I made, in a kind of different design. Only using HTML, CSS and vanilla JavaScript.
+
+
+## Misc
+
+[linkedin](https://www.linkedin.com/in/mickeberg/)
