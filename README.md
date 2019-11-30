@@ -1,6 +1,8 @@
 # The Clock
 
-A clock that I made, in a kind of different design. Only using HTML, CSS and vanilla JavaScript.
+<img width="1439" alt="the_clock" src="https://user-images.githubusercontent.com/47321557/69900064-8a407880-136f-11ea-9a93-de51eb1f0870.png">
+
+A clock that I made. Only using HTML, CSS and vanilla JavaScript.
 
 
 ## Misc
